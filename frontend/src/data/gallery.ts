@@ -1,0 +1,68 @@
+import { GalleryImage } from "@/types";
+
+export const galleryImages: GalleryImage[] = [
+  {
+    id: "g1",
+    src: "/images/gallery/thepla-stack.jpg",
+    alt: "Fresh thepla stack",
+    category: "food",
+    width: 400,
+    height: 500,
+  },
+  {
+    id: "g2",
+    src: "/images/gallery/making.jpg",
+    alt: "Hand rolling thepla",
+    category: "process",
+    width: 400,
+    height: 300,
+  },
+  {
+    id: "g3",
+    src: "/images/gallery/wedding.jpg",
+    alt: "Wedding catering setup",
+    category: "events",
+    width: 400,
+    height: 600,
+  },
+  {
+    id: "g4",
+    src: "/images/gallery/travel-pack.jpg",
+    alt: "Travel pack ready",
+    category: "products",
+    width: 400,
+    height: 400,
+  },
+  {
+    id: "g5",
+    src: "/images/gallery/ingredients.jpg",
+    alt: "Fresh spices and methi",
+    category: "ingredients",
+    width: 400,
+    height: 300,
+  },
+  {
+    id: "g6",
+    src: "/images/gallery/festival.jpg",
+    alt: "Festival celebration theplas",
+    category: "events",
+    width: 400,
+    height: 500,
+  },
+  {
+    id: "g7",
+    src: "/images/gallery/plated.jpg",
+    alt: "Beautifully plated thepla",
+    category: "food",
+    width: 400,
+    height: 400,
+  },
+  {
+    id: "g8",
+    src: "/images/gallery/packaging.jpg",
+    alt: "Premium packaging",
+    category: "products",
+    width: 400,
+    height: 300,
+  },
+];

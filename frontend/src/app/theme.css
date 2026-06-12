@@ -1,0 +1,9 @@
+@theme {
+  --color-primary: #e45c2e;
+  --color-secondary: #f6b73c;
+  --color-brand: #3a2416;
+
+  --font-display: var(--font-playfair);
+
+  --shadow-card: 0 2px 16px rgba(58, 36, 22, 0.08);
+}
